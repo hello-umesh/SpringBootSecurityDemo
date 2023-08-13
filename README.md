@@ -1,5 +1,5 @@
-# SpringBootSecurityDemo 3.0.1
-This is Spring Security 3.0.1
+# SpringBootSecurityDemo 3.0.1 with JWT
+This is Spring Security 3.0.1 JWT
 
 Steps to run the project
 1. Import the maven project either in Eclipse or VS studio Code or Intellij
